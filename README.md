@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&pause=1000&color=2DA44E&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **eriktambla/eriktambla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
